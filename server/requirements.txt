@@ -1,0 +1,7 @@
+Flask
+flask-cors
+python-dotenv
+numpy
+firebase-admin
+sentence-transformers
+limma
